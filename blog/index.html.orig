@@ -7,8 +7,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="static_url" content="http://2019.es.pycon.org/static/">
-  <meta name="media_url" content="http://2019.es.pycon.org/media/">
+  <meta name="static_url" content="https://2019.es.pycon.org/static/">
+  <meta name="media_url" content="https://2019.es.pycon.org/media/">
   <meta name="description" content="Web de la PyconES 2019">
   <meta name="author" content="PyconES 2019">
   
@@ -117,7 +117,7 @@
 
   
   <div>
-    <p>Nos complace anunciar que, como cada año, desde la organización de la <a href="http://2019.es.pycon.org/">PyConES 2019</a> ponemos en marcha un <strong>programa de ayuda financiera</strong> o de <strong>becas</strong> para quienes quieran asistir a la conferencia y que por motivos económicos no puedan hacerlo o necesiten financiación.</p>
+    <p>Nos complace anunciar que, como cada año, desde la organización de la <a href="https://2019.es.pycon.org/">PyConES 2019</a> ponemos en marcha un <strong>programa de ayuda financiera</strong> o de <strong>becas</strong> para quienes quieran asistir a la conferencia y que por motivos económicos no puedan hacerlo o necesiten financiación.</p>
 <p>Desde la primera edición siempre hemos tenido la vocación de que nadie se quedase sin ir a la PyConES por motivos económicos, y un año más contamos con el apoyo de la <strong>Python Software Foundation</strong>, que nos ha concedido <strong>4000 €</strong> de financiación para este programa de becas.</p>
 <p>Si quieres beneficiarte de este programa de becas deberás mandar una solicitud a contact+finaid@2019.es.pycon.org en la que conste una breve presentación, una descripción de por qué quieres venir a la PyConES 2019 y el importe solicitado y justificado (desplazamiento, estancia...). En los días siguientes al cierre del plazo el comité organizador valorará todos los envíos, y aquellos que se acepten se podrán subvencionar total o parcialmente.</p>
 <p><strong>El último día para mandar la solicitud es el 28 de junio, <a href="https://time.is/Anywhere_on_Earth">AoE</a></strong>.</p>

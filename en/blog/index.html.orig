@@ -7,8 +7,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="static_url" content="http://2019.es.pycon.org/static/">
-  <meta name="media_url" content="http://2019.es.pycon.org/media/">
+  <meta name="static_url" content="https://2019.es.pycon.org/static/">
+  <meta name="media_url" content="https://2019.es.pycon.org/media/">
   <meta name="description" content="Web de la PyconES 2019">
   <meta name="author" content="PyconES 2019">
   
@@ -117,7 +117,7 @@
 
   
   <div>
-    <p>We are pleased to announce that, as every year, the organization of the [PyConES 2019] (http://2019.es.pycon.org/) launches a <strong>financial aid program</strong> or <strong>scholarships</strong> for those who want to attend the conference and are unable to do so due to financial reasons or need funding.</p>
+    <p>We are pleased to announce that, as every year, the organization of the [PyConES 2019] (https://2019.es.pycon.org/) launches a <strong>financial aid program</strong> or <strong>scholarships</strong> for those who want to attend the conference and are unable to do so due to financial reasons or need funding.</p>
 <p>Since the first edition we have always had the aim that no one will be left out of going to the PyConES for economic reasons, and one more year we have the support of the <strong>Python Software Foundation</strong>, which has granted us <strong>4000 €</strong> of funding for this financial aid program.</p>
 <p>If you would like to profit from this grant program, you must send an application to contact+finaid@2019.es.pycon.org which includes a brief presentation, a description of why you want to come to the PyConES 2019 and the amount requested and justified (travel, stay...). During the following days after the deadline, the organizing committee will evaluate all the submissions, and those that have been accepted may be subsidized totally or partially.</p>
 <p><strong>The last day to send the application is June 28, <a href="https://time.is/Anywhere_on_Earth">AoE</a></strong>.</p>
