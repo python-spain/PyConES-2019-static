@@ -1,0 +1,206 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="static_url" content="http://2019.es.pycon.org/static/">
+  <meta name="media_url" content="http://2019.es.pycon.org/media/">
+  <meta name="description" content="Web de la PyconES 2019">
+  <meta name="author" content="PyconES 2019">
+  
+   <link rel="alternate" type="application/rss+xml" title="PyConES 2019 - RSS" href="/blog/feed/">
+   <link rel="alternate" type="application/atom+xml" title="PyConES 2019 - Atom" href="/blog/atom/">
+  
+  <title>Job Board offer from Mckinsey and Company </title>
+  <!-- Theme CSS - Includes Bootstrap -->
+  <link href="/static/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link href="/static/css/main.css" rel="stylesheet">
+  
+</head>
+
+<body  id="home">
+
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand" href="/"><img src="/static/img/logo_pycones_horizontal.png" width="100" class="d-inline-block align-top" alt="Pycon"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          
+          <li class="nav-item">
+            <a class="nav-link" href="/info/">Sobre Alicante</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="/horario/">Horario</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/jobboard/">Job Board</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/hotels/">Hoteles</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/blog/">Blog</a>
+          </li>
+          
+        </ul>
+        <ul class="my-2 my-lg-0 navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Lang
+            </a>
+
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="/">ES</a>
+              <a class="dropdown-item" href="/en/">EN</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="bd-example">
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/static/img/carousel1.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption">
+            <h5>PyConES 2019</h5>
+            <p>Alicante, España. Octubre 04-06 2019</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/static/img/carousel2.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption">
+            <h5>PyConES 2019</h5>
+            <p>Alicante, España. Octubre 04-06 2019</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/static/img/carousel3.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption">
+            <h5>PyConES 2019</h5>
+            <p>Alicante, España. Octubre 04-06 2019</p>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </section>
+
+  
+<main>
+    <section class="container" id="jobBoardDetail">
+    <h1>Business Analyst – McKinsey Digital</h1>
+    <div class="row">
+        <div class="col-12 col-lg-12">
+          
+          <img src="/media/sponsor_files/mckinsey---company_owler_20190728_090718_original.png" title="Mckinsey and Company" alt="Mckinsey and Company" class="img-fluid sponsors-img-small">
+          
+          <div>
+            <p><strong>What you’ll do</strong></p>
+<p>You’ll work in teams of typically 3 – 5 consultants, playing an active role in all aspects of the client engagement.</p>
+<p>This includes gathering and analyzing information, formulating and testing hypotheses, and developing and communicating recommendations.  You’ll also have the opportunity to present results to client management and implement recommendations in collaboration with client team members.</p>
+<p>You’ll gain new skills and build on the strengths you bring to the firm.  Business Analysts (BA) receive exceptional training as well as frequent coaching and mentoring from colleagues on their teams.  This support includes a Partner from your local office or practice assigned to you to help guide your career as well as several weeks of formal training in your first two years as a Business Analyst.  Additionally, you’ll receive guidance and support from your local office in the selection of client projects, helping you to develop your skills and build your network. </p>
+<p>We view the Business Analyst position as the start of a rewarding, challenging, and highly flexible career with McKinsey.  During your first few years with the firm, you will serve as a BA on multiple client engagements and work with a number of colleagues and clients in a range of industry and functional areas.  We encourage you to explore different content areas or geographies through a year-long rotation with one of our practices (e.g., corporate finance, social sector, healthcare, operations) or global offices; many do this after two years as a generalist BA.  </p>
+<p>Following your BA tenure, assuming good performance, you will move into a post-graduate school role.  Some BAs will take advantage of the opportunity to get outside experience through a secondment (externship) with a private sector or social sector client with the firm’s support.  Others may choose to pursue graduate school with support from the firm.  </p>
+<p><strong>Who you’ll work with</strong></p>
+<p>You will be based in Madrid or Lisbon and will be part of McKinsey Digital.
+This group brings together the best of McKinsey’s digital capabilities to help our clients use digital technology and assets to transform their businesses. As part of this group, you’ll join a global team working on everything related to Digital Strategy/Transformation, IT modernization, Agile Scaling, Digital Marketing, etc.. 
+When you join McKinsey as a Business Analyst (BA), you are joining a firm that will challenge you and invest in your professional development. In this role you will work on the best teams to help the best organizations in the world – in private, public, and social sectors – solve their most difficult problems. You will also work with many experts, from data scientists and researchers to software and app designers.</p>
+<p>If you are interested in joining a specific practice, please indicate this in your office/practice preference (combinations are possible). To learn more about how we help our clients and where you fit in, visit our careers site.</p>
+<p><strong>Qualifications</strong></p>
+<p>•   Undergraduate or Master’s degree or have 1 –3 years of work experience after completing your undergraduate degree
+•   Computer Science, Telecommnications, or other engineering/technical related field preferred 
+•   Outstanding record of academic achievement
+•   Demonstrated aptitude for analytics
+•   Proven record of leadership in a work setting and/or through extracurricular activities
+•   Exceptional analytical and quantitative problem-solving skills
+•   Ability to work collaboratively in a team environment
+•   Ability to work effectively with people at all levels in an organization
+•   Ability to communicate complex ideas effectively – both verbally and in writing – in English and Spanish/Portuguese 
+•   Willingness to travel</p>
+          </div>
+           <p class="text-right">
+              <a href="https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-mckinseydigital-33206" class="btn btn-success">Enviar solicitud</a>
+          </p>
+        </div>
+    </div>
+  </section>
+</main>
+
+
+  
+  <footer>
+    <div class="container-fluid">
+         <a class="linkFooter" href="/code-of-conduct/">Código de conducta</a>
+      <div class="row">
+
+        <aside class="col-sm-10 offset-sm-1 col-md-3 icons">
+          <h4>Dónde encontrarnos</h4>
+          <ul class="list-inline">
+            <li class="list-inline-item">
+              <a href="https://www.es.python.org/">
+                <i class="fa fa-heart"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://twitter.com/pycones?lang=en">
+                <i class="fa fa-twitter"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://github.com/python-spain">
+                <i class="fa fa-github"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="mailto:contact@2019.es.pycon.org">
+                <i class="fa fa-envelope"></i>
+              </a>
+            </li>
+          </ul>
+        </aside>
+
+        <div class="col-sm-10 offset-sm-1 col-md-7 offset-md-0 newsletter">
+          <h4>Suscríbete a nuestra newsletter</h4>
+          <div class="newsletter-form offset-sm-1 col-sm-10 offset-lg-3 col-lg-6">
+            <form action="https://twitter.us16.list-manage.com/subscribe/post?u=b340cff322b1d7f8a81ceab94&amp;id=53e88e395a">
+              <input type="hidden" name="u" value="b340cff322b1d7f8a81ceab94">
+              <input type="hidden" name="id" value="53e88e395a">
+              <div role="group" class="input-group">
+                <input type="email" placeholder="Correo electrónico" name="EMAIL" class="form-control">
+                <div class="input-group-append">
+                  <button type="submit" class="btn btn-secondary">Enviar</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+    </div>
+
+  </footer>
+  
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="/static/vendor/jquery/jquery.min.js"></script>
+  <script src="/static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
